@@ -11,20 +11,20 @@ You can find in Attached file
 
 📊 Key Features & Techniques Used:
 
-✅ Data Processing with PySpark → Handled 50k+ orders, applied Spark SQL/PySpark for efficient data transformations and feature engineering.
-✅ Feature Engineering → Created customer behavior features, delivery efficiency metrics, and product-level attributes to enhance prediction accuracy.
-✅ Machine Learning Models → Evaluated and optimized with Hyperparameters Selection on multiple models:
+- ✅ Data Processing with PySpark → Handled 50k+ orders, applied Spark SQL/PySpark for efficient data transformations and feature engineering.
+- ✅ Feature Engineering → Created customer behavior features, delivery efficiency metrics, and product-level attributes to enhance prediction accuracy.
+- ✅ Machine Learning Models → Evaluated and optimized with Hyperparameters Selection on multiple models:
 Gradient Boosting | Random Forest | Support Vector Machine (SVM) | Linear Regression
-✅ Performance Optimization → Applied data partitioning, caching and parallel processing for scalability.
-✅ Key Business Insights → Identified major factors influencing customer reviews, such as delivery delays and product categories, helping BLU improve retention strategies.
+- ✅ Performance Optimization → Applied data partitioning, caching and parallel processing for scalability.
+- ✅ Key Business Insights → Identified major factors influencing customer reviews, such as delivery delays and product categories, helping BLU improve retention strategies.
 
 
 🎤 Final Evaluation & Presentation:
-Beyond the technical implementation, we presented our work to both technical and non-technical audiences. This required translating complex machine learning concepts into clear, actionable insights for senior management and business teams.
+- Beyond the technical implementation, we presented our work to both technical and non-technical audiences. This required translating complex machine learning concepts into clear, actionable insights for senior management and business teams.
 
 
 🌟 What I Gained from this Project:
-✔ Hands-on experience in PySpark for Big Data processing & ML modeling.
-✔ Deeper understanding of feature engineering & model evaluation in large datasets.
-✔ Improved ability to communicate data-driven insights to different stakeholders.
-✔ Experience in working as a team on an end-to-end data science project.
+- ✔ Hands-on experience in PySpark for Big Data processing & ML modeling.
+- ✔ Deeper understanding of feature engineering & model evaluation in large datasets.
+- ✔ Improved ability to communicate data-driven insights to different stakeholders.
+- ✔ Experience in working as a team on an end-to-end data science project.
